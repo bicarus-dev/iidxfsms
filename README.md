@@ -20,6 +20,9 @@ Set `show_pgreat=1` to show timing even for PGREAT. If 0.0 ms nothing is shown.
 
 Restart the game after changing settings.
 
+## Supported games
+See https://github.com/bicarus-dev/iidxfsms/blob/main/src/versions/registry.h
+
 ## Build
 
 Requires Docker for Linux containers. The first build creates the project's MinGW image and downloads pinned MinHook and SimpleIni sources.
