@@ -20,7 +20,7 @@ Set `show_pgreat=1` to show timing even for PGREAT. If 0.0 ms nothing is shown.
 
 Restart the game after changing settings.
 
-## Supported games
+## Supported game versions
 See https://github.com/bicarus-dev/iidxfsms/blob/main/src/versions/registry.h
 
 ## Build
