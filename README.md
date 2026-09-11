@@ -2,6 +2,9 @@
 
 Replaces IIDX FAST/SLOW with signed millisecond offsets: blue `-8.3 ms` for early hits and red `+8.3 ms` for late hits. Separate scratch indicators use pale blue/red to distinguish them from keys.
 
+> [!NOTE]
+> This feature has been integrated into [2dxtra](https://github.com/aixxe/2dxtra) - use that instead.
+
 Complete misses show `miss` instead of SLOW in milliseconds mode.
 
 ## Usage
